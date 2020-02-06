@@ -14,3 +14,6 @@ const grupos = {
     ]
 }
 ```
+
+### Link de Transferência de Rascunhos:
+http://dontpad.com/mesa1a
