@@ -17,3 +17,11 @@ const grupos = {
 
 ### Link de Transferência de Rascunhos:
 http://dontpad.com/mesa1a
+
+
+### GitHubs da Equipe:
+
+- gustavonnobrega
+- brunolimadev
+- GuiLima13
+- Edson-Menezes
